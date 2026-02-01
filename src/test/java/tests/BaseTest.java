@@ -20,7 +20,7 @@ public class BaseTest {
     public static String AppBuild;
     public static String device;
 
-
+//    Setup
     @Parameters({"loginname", "mobileNumber", "otp", "password", "executionDevie", "newLogin"})
     @BeforeClass(alwaysRun = true)
     public void setUp(String loginname,
