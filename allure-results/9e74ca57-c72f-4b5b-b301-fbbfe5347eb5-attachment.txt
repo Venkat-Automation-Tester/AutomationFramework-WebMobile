@@ -1,0 +1,17 @@
+[ReportManager] Setting "targetOperatingSystem" property with "Windows 11". @31-01-2026 12:55:41.0333 pm
+[ReportManager] Setting "targetBrowserName" property with "MicrosoftEdge". @31-01-2026 12:55:41.0339 pm
+[ReportManager] Post processing some properties to support platforms-specific restrictions. @31-01-2026 12:55:41.0462 pm
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @31-01-2026 12:55:41.0513 pm
+[ReportManager] Setting "screenshotParams_scalingFactor" property with "1.5". @31-01-2026 12:55:41.0715 pm
+[ReportManager] Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\venkatesan.s\IdeaP..., download.prompt_for_download: false}}, pageLoadStrategy: none, timeouts: {pageLoad: 30000, script: 30000}, webSocketUrl: true} @31-01-2026 12:55:41.0751 pm
+[ReportManager] Attempting to run locally on: "Windows | Microsoft edge". @31-01-2026 12:55:41.0755 pm
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @31-01-2026 12:55:41.0757 pm
+[ReportManager] Successfully Opened: "Windows | Microsoft edge". @31-01-2026 12:55:48.0003 pm
+[ReportManager] Target URL: "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" @31-01-2026 12:55:48.0341 pm
+[ReportManager] Initial URL: "about:blank" @31-01-2026 12:55:48.0508 pm
+[ReportManager] Navigate to url "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login". @31-01-2026 12:55:52.0984 pm
+[ReportManager] Clear "Username" @31-01-2026 12:55:54.0200 pm
+[ReportManager] Type  append "Username" @31-01-2026 12:55:54.0377 pm
+[ReportManager] Clear "Password" @31-01-2026 12:55:54.0723 pm
+[ReportManager] Type  append "Password" @31-01-2026 12:55:54.0912 pm
+[ReportManager] Click "Login" @31-01-2026 12:55:55.0167 pm

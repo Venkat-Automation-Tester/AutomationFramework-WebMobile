@@ -1,0 +1,13 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                       Test Method: 'tests.Tests.Web_Dashbord_Functionality.Dashboard_Fun'                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Click "By.xpath: //a[@class='oxd-main-menu-item']//span[text()='Admin']" @31-01-2026 12:55:57.0820 pm
+[ReportManager] Clicked on Admin tab @31-01-2026 12:55:57.0824 pm
+[ReportManager] Click "By.xpath: //a[@class='oxd-main-menu-item']//span[text()='PIM']" @31-01-2026 12:56:00.0586 pm
+[ReportManager] Clicked on PIM tab @31-01-2026 12:56:00.0598 pm
+[ReportManager] Click "By.xpath: //a[@class='oxd-main-menu-item']//span[text()='Leave']" @31-01-2026 12:56:02.0988 pm
+[ReportManager] Clicked on Leave tab @31-01-2026 12:56:02.0991 pm
+[ReportManager] Click "By.xpath: //a[span[text()='Recruitment']]" is broken @31-01-2026 12:56:16.0353 pm

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="AndroidAppiumSuite">
+
+    <test name="SearchIphoneTest">
+
+        <parameter name="loginname" value="Admin"/>
+        <parameter name="mobileNumber" value="7358667568"/>
+        <parameter name="otp" value="0806"/>
+        <parameter name="password" value="admin123"/>
+        <parameter name="executionDevie" value="web"/>
+        <parameter name="newLogin" value="Yes"/>
+
+        <classes>
+<!--            <class name="tests.SearchIphoneTest"/>-->
+            <class name="tests.Tests.Web_Dashbord_Functionality"/>
+        </classes>
+
+    </test>
+
+</suite>
